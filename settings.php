@@ -19,8 +19,8 @@
 			<h1>Settings</h1>
 		</header>
 		<main>
-			<nav id="navigation">
-				<ul class="nav nav-pills nav-stacked">
+			<nav>
+				<ul>
 					<li><a href="index.php">Front page</a></li>
 					<li><a href="newAthlete.php">Enroll</a></li>
 					<li><a href="athleteList.php">Browse</a></li>

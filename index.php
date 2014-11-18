@@ -24,8 +24,8 @@
 			?>
 		</header>
 		<main>
-			<nav id="navigation">
-				<ul class="nav nav-pills nav-stacked">
+			<nav>
+				<ul>
 					<li class="active"><a href="#">Front page</a></li>
 					<li><a href="newAthlete.php">Enroll</a></li>
 					<li><a href="athleteList.php">Browse</a></li>
@@ -36,6 +36,7 @@
 			</nav>
 			<section>
 				<p>Hello <?php echo $username; ?> welcome!</p>
+				<p>This is still a work in progress.</p>
 			</section>
 		</main>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
