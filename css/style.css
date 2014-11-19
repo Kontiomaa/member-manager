@@ -93,18 +93,6 @@ label
 	float:left;
 	width:10em;
 }
-/*legend
-{
-	color:white;
-}
-input
-{
-	color:black;
-}
-textarea
-{
-	color:black;
-}*/
 .error
 {
 	color: red;
@@ -142,4 +130,9 @@ textarea
 .padding
 {
 	padding:20px;
+}
+.active
+{
+	background-color:#09261A;
+	margin-left:10%;
 }
